@@ -47,8 +47,6 @@ body {
 }
 
 .product-img {
-    /* width: 360px;
-    width: 200px; */
     height: auto;
     width: 350px;
     border-top-left-radius: 10px;
